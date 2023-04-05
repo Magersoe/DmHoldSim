@@ -14,4 +14,4 @@ Anton_Frihed <- read_html("http://www.cforslund.dk/lifterpopup.aspx?id=30395")
 
 BVK_Hold_Data = c(Mathias %>% html_table(fill=TRUE),Simon_Danvil %>% html_table(fill=TRUE),Sebastian %>% html_table(fill=TRUE),Anton_Frihed %>% html_table(fill=TRUE)) 
 
-Mats_SinCLai <- 325
+Mats_SinCLai <- 327
